@@ -1,0 +1,8 @@
+Prove every equation up to exercise 3
+Look at the S-eqn standard numerical solution and analytical for x^2 and x^4 potentials for values to compare.
+Look into the errors
+Write some latex around the notebook with thoughts and information
+Why does the bounds -6,6 fuck things up so much
+
+
+Although I will be deriviing results from the standard formulation of quantum mechanics. It is entirely impossible to look at things from the other way, where our path integral is the fundamental quantum perscription. 
