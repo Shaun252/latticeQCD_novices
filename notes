@@ -18,5 +18,15 @@ Understand how to minimise thermal steps
 
 Understand error propagation with averaging over lattice then gauge.
 
+Store potential data as dictionary with key = r
+
+fit then average or average then fit?
+
+nplog(x) etc each thing then average so I at least have some points
+
+try nan mean
+
+Drop nan rows or use nan mean?
+
 
 
