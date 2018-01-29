@@ -15,5 +15,5 @@ This is my attempt at this [program](https://arxiv.org/pdf/hep-lat/0506036.pdf).
 9) Twisted rectangle improvement
 10) Show that $\langle 0 | \frac{1}{3} \text{Tr} U_{\mu} | 0 \rangle $ is equal to the landau gauge in the limit $a \to 0$
 11) Pure gauge simulation to compute plaquette and rectangle expectation values with wilson and rectangular improved actions
-12) Computing the static quark anti-quark potential
+12) Computing the static quark anti-quark potential.
 
