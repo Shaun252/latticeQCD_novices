@@ -8,8 +8,6 @@ Look into auto correlation
 #### Extension 3
 Look at the distribution of the individual binned/jacknifed/bootstrapped averages. They should be gaussians centered at the combined average with a width equal to the total error (probably a more correct word than total?). I will look into producing these using histograms and fitting gaussians to them. Understand why this is useful.
 
-### Exercise 8
-Understand renormalisation stuff related
 
 ### Exercise 11
 
